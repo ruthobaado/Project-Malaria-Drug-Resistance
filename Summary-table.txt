@@ -1,0 +1,6 @@
+Countries		crt	mdr	dhfr	dhps	K13	PIP
+China-Myanmar		4	3	4	2	1	7
+Malawi			1	2	3	1	0	15
+Vietnam			7	5	2	1	1	31
+China-Myanmar & Malawi	0	0	3	1	0	0
+China-Myanmar & Vietnam	3	0	0	0	0	2
