@@ -1,7 +1,7 @@
-Stage 3 Project
+**Stage 3 Project**
 
-#Project- Genotypying Malaria Drug Resistance
-
+**#Project- Genotypying Malaria Drug Resistance
+**
 INTRODUCTION: The global burden of malaria has increased during the last decade and it continues to cause signifcant morbidity and mortality globally, despite the control interventions. Current malaria control and elimination strategies rely mainly on effective antimalarial drugs. However, drug resistance has become a major threat facing malaria control programs because Plasmodium falciparum as a parasite has adapted to anti-malarials and this can be attributed partly to its enormous genetic diveristy. Identifying, monitoring and understanding the molecular markers of adaptive mechanisms against anti-malarials are of importance as anti-malarial therapy and prophylaxis have been key in reducing mortality and morbidity from malaria. Although, mutations in genes determining resistance to drugs such as chloroquine have been identified, there is still a need to have full understanding of the resistance mechanisms, and genes that contribute to resistance to many other drugs.
 
 AIM: This project aims to identify the presence of one or more of these variants (Pfcrt, Pfmdr1, Pfdhfr, and Pfdhps, Pfarps10, Pfferredoxin, Pfexonuclease and Pfmdr2) in Plasmodium falciparum genome sequences from different countries in the world and make drug prescriptions that fit each.
